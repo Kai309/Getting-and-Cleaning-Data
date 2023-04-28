@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-##CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
+## CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
 
 run_analysis.R contains all the code to perform the analysis described in this 5 steps:
 
